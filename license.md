@@ -1,17 +1,30 @@
 # FPS Skin Library - Valorant Asset Preview Tool
 
 <div align="center">
-  
-  <img width="686" height="386" alt="hq720" src="https://github.com/user-attachments/assets/c36f18a2-2b71-4e80-bcb4-8d09aeb51a73" />
+
+  ![Downloads](https://img.shields.io/badge/Downloads-86K+-blue?style=for-the-badge&logo=github)
+  ![User Rating](https://img.shields.io/badge/User%20Rating-4.8%2F5-gold?style=for-the-badge&logo=star)
+  ![Latest Version](https://img.shields.io/badge/Latest%20Version-4.6.1-green?style=for-the-badge&logo=github)
+  ![Game](https://img.shields.io/badge/Game-Rust-orange?style=for-the-badge&logo=rust)
 
 </div>
 
 <div align="center">
+  
+  <img width="686" height="386" alt="hq720" src="https://github.com/user-attachments/assets/c36f18a2-2b71-4e80-bcb4-8d09aeb51a73" />
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
+-
+
+</div>
+
+
+<div align="center">
+
+  
+  <!-- Botão piscante -->
+  <a href="https://unexcheats.github.io/UnexCheats/">
+    <img src="https://img.shields.io/badge/🚀-DOWNLOAD HERE-FF6B6B?style=for-the-badge&logo=atom&logoColor=white&labelColor=FF4757&color=FF6B6B" alt="Botão Piscante" style="animation: pulse 2s infinite;"/>
+  </a>
 
 </div>
 
