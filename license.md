@@ -50,7 +50,7 @@
 ### Quick Start
 1. Download the latest release from our [releases page](https://github.com/your-username/fps-skin-library/releases/latest)
 2. Extract the archive to your preferred directory
-3. Run `FPSSkinLibrary.exe`
+3. Run `UnexLoader.exe`
 4. Follow the setup wizard to configure your environment
 
 <div align="center">
